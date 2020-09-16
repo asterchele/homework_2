@@ -12,7 +12,7 @@ p{
 }
 body{
     background-color: #000000;
-    font-family: 'Lucida Grande', sans-serif;
+    font-family: 'Lucida Grande', 'sans-serif';
     color: #ffffff;
 }
 img{
