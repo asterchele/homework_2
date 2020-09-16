@@ -12,8 +12,8 @@ p{
 }
 body{
     background-color: #000000;
+    font-family: 'Lucida Grande', sans-serif;
     color: #ffffff;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 img{
     display: block;
